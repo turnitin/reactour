@@ -1,0 +1,4 @@
+js-uploader:
+  image: quay.io/turnitin/js-uploader:latest
+  volumes:
+    - .:/build
