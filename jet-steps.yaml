@@ -1,0 +1,5 @@
+- name: push library
+  tag: "^\\d+\\.\\d+\\.\\d+$"
+  service: js-uploader
+  encrypted_dockercfg_path: dockercfg.encrypted
+  command: uploader
