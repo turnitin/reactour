@@ -85,7 +85,7 @@
     "classnames": "2.2.6",
     "focus-outline-manager": "^1.0.2",
     "lodash.debounce": "4.0.8",
-    "prop-types": "15.7.2",
+    "prop-types": "15.8.1",
     "react-focus-lock": "2.2.1",
     "scroll-smooth": "1.1.0",
     "scrollparent": "2.0.1"
