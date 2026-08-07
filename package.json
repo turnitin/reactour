@@ -81,7 +81,7 @@
     "styled-components": "^4.0.0 || ^5.0.0"
   },
   "dependencies": {
-    "@rooks/use-mutation-observer": "3.4.2",
+    "@rooks/use-mutation-observer": "3.6.0",
     "classnames": "2.2.6",
     "focus-outline-manager": "^1.0.2",
     "lodash.debounce": "4.0.8",

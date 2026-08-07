@@ -873,10 +873,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/unitless/-/unitless-0.7.5.tgz#77211291c1900a700b8a78cfafda3160d76949ed"
   integrity sha512-OWORNpfjMsSSUBVrRBVGECkhWcULOAJz9ZW8uK9qgxD+87M7jHRcvh/A96XXNhXTLmKcoYSQtBEX7lHMO7YRwg==
 
-"@rooks/use-mutation-observer@3.4.2":
-  version "3.4.2"
-  resolved "https://registry.yarnpkg.com/@rooks/use-mutation-observer/-/use-mutation-observer-3.4.2.tgz#1f9525ac694e7a4bd4cb88a3844b7d5c0ce3a248"
-  integrity sha512-f2ju+xRgSWS5yQ76eh5t5CwY4DNLmJueyKpQmZBEKP3o5YxSESKmABC8c7Jds+K2KrQJ+PFClkLMH2U190z60w==
+"@rooks/use-mutation-observer@3.6.0":
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/@rooks/use-mutation-observer/-/use-mutation-observer-3.6.0.tgz#75be58bc45778d6040829ae596e203fd820edaff"
+  integrity sha512-psNODH3I4lkX9IFIsP/QlIlCCfnjgbNqQ0hvEhgqnSqyVuZ7lJZ9ffWK4hQG2H6YkHUt2WGFaQtAchyeaChzlg==
 
 "@types/color-name@^1.1.1":
   version "1.1.1"
